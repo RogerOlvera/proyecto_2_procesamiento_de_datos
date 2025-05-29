@@ -1,11 +1,8 @@
-# Proyecto_2_Procesamiento_de_datos
- 
- **Data Analyst: proyecto 2 procesamiento de datos.**
+# **Proyecto_2_Procesamiento_de_datos**
 
-## **Descripción del proyecto**
+## :bookmark_tabs: **Descripción del proyecto**
 
-Todavía desempeñándote como miembro del equipo analítico, en el primer proyecto hemos sentado las bases para la segunda fase. 
-¡Hemos llegado! 
+Desempeñándote como miembro del equipo analítico, en el primer proyecto hemos sentado las bases para la segunda fase. 
 
 Ahora aplicarás técnicas avanzadas para extraer datos significativos, atendiendo a las crecientes necesidades del cliente.
 
@@ -21,14 +18,17 @@ En términos técnicos, una tabla es simplemente una lista anidada que contiene 
 
 Store 1 ha creado una tabla de este tipo para sus usuarios. Está almacenada en la variable "users". Cada sublista contiene el ID del usuario, nombre y apellido, edad, categorías favoritas y el importe gastado en cada categoría.
 
-## **Objetivo del proyecto**
+## :dart: **Objetivo del proyecto**
 
-El objetivo del proyecto es realizar un preprocesamiento y análisis exploratorio de los datos.
+Realizar un preprocesamiento y análisis exploratorio de los datos.
 
-En el presente proyecto se realiza:
+## :clipboard: **Etapas**
 
 1.	Revisión de la información
 2.	Tratamiento inicial de los datos: correcciones de estilo, agregar datos importantes a través del uso de funciones.
 3.	Filtrado de información de acuerdo a las condiciones indicadas.
 
-El archivo se encuentra dentro del directorio "notebooks".
+## :pencil: **Notas Adicionales**
+
+:diamond_shape_with_a_dot_inside: Link Jupyter Notebbok: https://github.com/RogerOlvera/proyecto_2_procesamiento_de_datos/blob/main/notebooks/proyecto_sprint_2.ipynb
+
